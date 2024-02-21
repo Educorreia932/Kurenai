@@ -1,0 +1,34 @@
+{
+	"name": "kurenai",
+	"displayName": "Kurenai",
+	"description": "An eye-catching theme for Visual Studio Code.",
+	"icon": "icon.png",
+	"version": "0.1.0",
+	"publisher": "Educorreia932",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Educorreia932/Kurenai"
+	},
+	"engines": {
+		"vscode": "^1.84.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Theme",
+		"Dark",
+		"Dark Theme",
+		"Editor Theme",
+		"Red"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kurenai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Kurenai-color-theme.json"
+			}
+		]
+	}
+}
