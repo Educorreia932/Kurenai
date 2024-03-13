@@ -5,8 +5,10 @@
 
 An <i>eye-catching</i> theme for Visual Studio Code.
 
-<img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/:Educorreia932.kurenai">
+<a url="https://marketplace.visualstudio.com/items?itemName=Educorreia932.kurenai">
+    <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/:Educorreia932.kurenai">
 </div>
+</a>
 
 <br>
 

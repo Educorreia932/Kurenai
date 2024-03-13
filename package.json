@@ -3,7 +3,7 @@
 	"displayName": "Kurenai",
 	"description": "An eye-catching theme for Visual Studio Code.",
 	"icon": "icon.png",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "Educorreia932",
 	"repository": {
 		"type": "git",

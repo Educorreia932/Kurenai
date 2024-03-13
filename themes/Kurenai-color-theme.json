@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#ed0a3f"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#c1cda2"
       }
     },
@@ -815,7 +815,8 @@
       "name": "Headings",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#e8e8e8"
+        "foreground": "#e8e8e8",
+        "fontStyle": "bold"
       }
     },
     {
@@ -836,14 +837,16 @@
       "name": "Bold",
       "scope": "markup.bold,todo.bold",
       "settings": {
-        "foreground": "#c1cda2"
+        "foreground": "#c1cda2",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Bold",
       "scope": "punctuation.definition.bold",
       "settings": {
-        "foreground": "#9e9f6c"
+        "foreground": "#9e9f6c",
+        "fontStyle": "bold"
       }
     },
     {
